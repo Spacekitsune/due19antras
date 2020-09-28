@@ -1,0 +1,25 @@
+div {
+    padding-top: 40px;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+  }
+table, th, td {
+    border: 1px solid black;
+  }
+
+th, td {
+    height:30px;
+    padding-left: 10px;
+  }
+th {
+    background-color: #EBECF0;
+    text-align: left;
+}
+#headernot {
+    background-color: #EBECF0;
+}
